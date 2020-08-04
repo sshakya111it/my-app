@@ -1,0 +1,13 @@
+p {
+    text-align: center;
+    align-items: center;
+  }
+
+  .btn-primary {
+    background-color: rgb(37, 75, 180);
+    color: white;
+  }
+  .drp-primary{
+    background-color: black;
+
+  }
